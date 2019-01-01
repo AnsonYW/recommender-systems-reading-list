@@ -1,6 +1,6 @@
 # Reading list + Open source code
 
-This is a reading list related to recommender system and computational economics, maintained by the student from the  Tsinghua Information Retrieval Group(THUIR). Open source code will be placed in the source_code folder if available. The list is still yet to be completed and any suggestions are welcome =)
+This is a reading list related to recommender system and computational economics, maintained by a student from the  Tsinghua Information Retrieval Group(THUIR). Open source code will be placed in the source_code folder if available. The list is still yet to be completed and any suggestions are welcome =)
 
 - [Classification of Substitutes and Complements](#classification-of-substitutes-and-complements)
 
